@@ -1,3 +1,5 @@
 print("Hola mundo")
 print("klk mmg")
 print("Hello, World!")
+print("Hola tu madre")
+print("Hello your mom")
